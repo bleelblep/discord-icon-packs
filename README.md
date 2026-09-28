@@ -15,6 +15,11 @@ Themes+ packs can use them. The Themes plugin for Revenge Next lists them under 
 | Pixelarticons | [pixelarticons](https://icon-sets.iconify.design/pixelarticons/) | Gerrit Halfmann | MIT |
 | Lets Icons | [lets-icons](https://icon-sets.iconify.design/lets-icons/) | Leonid Tsvetkov | CC BY 4.0 |
 
+**Liquid Glass** by doraa is listed too, but its images are not in this repo: the list points at
+[dora727/doraa-pyoncordstuff](https://github.com/dora727/doraa-pyoncordstuff) directly, and only its
+file list (`trees/dora-liquidglass.txt`) is kept here. That repo has no licence file; all rights stay
+with its author.
+
 Each icon belongs to its author and stays under its set's licence; the licence texts are in
 [`LICENSES/`](LICENSES). **Changes made:** the icons were picked to stand in for Discord's own
 icons, recoloured white (Discord tints them), and rendered from SVG to 72 × 72 PNG. Nothing else

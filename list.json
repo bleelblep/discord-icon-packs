@@ -1,10 +1,38 @@
 {
 	"list": [
 		{
+			"id": "dora-liquidglass",
+			"name": "Liquid Glass",
+			"description": "Glassy, rounded icons by doraa. Loaded from doraa's own repo.",
+			"credits": {
+				"authors": [
+					{
+						"name": "doraa",
+						"id": "455513497288310785"
+					}
+				],
+				"sources": [
+					"https://github.com/dora727/doraa-pyoncordstuff"
+				]
+			},
+			"load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/LiquidGlass/",
+			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/dora-liquidglass.txt"
+		},
+		{
 			"id": "bleelblep-icon-park-outline",
 			"name": "IconPark Outline",
 			"description": "ByteDance's IconPark, outline style.",
-			"credits": { "authors": [{ "name": "ByteDance (IconPark)" }], "sources": ["https://github.com/bytedance/IconPark", "https://icon-sets.iconify.design/icon-park-outline/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "ByteDance (IconPark)"
+					}
+				],
+				"sources": [
+					"https://github.com/bytedance/IconPark",
+					"https://icon-sets.iconify.design/icon-park-outline/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/icon-park-outline/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/icon-park-outline.txt"
 		},
@@ -12,7 +40,17 @@
 			"id": "bleelblep-icon-park-solid",
 			"name": "IconPark Solid",
 			"description": "ByteDance's IconPark, filled style.",
-			"credits": { "authors": [{ "name": "ByteDance (IconPark)" }], "sources": ["https://github.com/bytedance/IconPark", "https://icon-sets.iconify.design/icon-park-solid/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "ByteDance (IconPark)"
+					}
+				],
+				"sources": [
+					"https://github.com/bytedance/IconPark",
+					"https://icon-sets.iconify.design/icon-park-solid/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/icon-park-solid/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/icon-park-solid.txt"
 		},
@@ -20,7 +58,17 @@
 			"id": "bleelblep-icon-park-twotone",
 			"name": "IconPark Two Tone",
 			"description": "ByteDance's IconPark, two-tone style; the second tone is kept as a lighter shade.",
-			"credits": { "authors": [{ "name": "ByteDance (IconPark)" }], "sources": ["https://github.com/bytedance/IconPark", "https://icon-sets.iconify.design/icon-park-twotone/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "ByteDance (IconPark)"
+					}
+				],
+				"sources": [
+					"https://github.com/bytedance/IconPark",
+					"https://icon-sets.iconify.design/icon-park-twotone/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/icon-park-twotone/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/icon-park-twotone.txt"
 		},
@@ -28,7 +76,17 @@
 			"id": "bleelblep-keyline-icons",
 			"name": "Keyline",
 			"description": "Keyline Icons, clean 2 px outlines.",
-			"credits": { "authors": [{ "name": "Keyline Icons" }], "sources": ["https://github.com/keyline-icons/keyline-icons", "https://icon-sets.iconify.design/keyline-icons/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "Keyline Icons"
+					}
+				],
+				"sources": [
+					"https://github.com/keyline-icons/keyline-icons",
+					"https://icon-sets.iconify.design/keyline-icons/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/keyline-icons/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/keyline-icons.txt"
 		},
@@ -36,7 +94,17 @@
 			"id": "bleelblep-mynaui",
 			"name": "Myna UI",
 			"description": "Myna UI Icons by Praveen Juge, thin rounded outlines.",
-			"credits": { "authors": [{ "name": "Praveen Juge" }], "sources": ["https://github.com/praveenjuge/mynaui-icons", "https://icon-sets.iconify.design/mynaui/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "Praveen Juge"
+					}
+				],
+				"sources": [
+					"https://github.com/praveenjuge/mynaui-icons",
+					"https://icon-sets.iconify.design/mynaui/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/mynaui/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/mynaui.txt"
 		},
@@ -44,7 +112,17 @@
 			"id": "bleelblep-iconamoon",
 			"name": "IconaMoon",
 			"description": "IconaMoon by Dariush Habibpour. A smaller set, so fewer icons change.",
-			"credits": { "authors": [{ "name": "Dariush Habibpour" }], "sources": ["https://github.com/dariushhpg1/IconaMoon", "https://icon-sets.iconify.design/iconamoon/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "Dariush Habibpour"
+					}
+				],
+				"sources": [
+					"https://github.com/dariushhpg1/IconaMoon",
+					"https://icon-sets.iconify.design/iconamoon/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/iconamoon/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/iconamoon.txt"
 		},
@@ -52,7 +130,17 @@
 			"id": "bleelblep-pixelarticons",
 			"name": "Pixelarticons",
 			"description": "Pixel-art icons by Gerrit Halfmann.",
-			"credits": { "authors": [{ "name": "Gerrit Halfmann" }], "sources": ["https://github.com/halfmage/pixelarticons", "https://icon-sets.iconify.design/pixelarticons/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "Gerrit Halfmann"
+					}
+				],
+				"sources": [
+					"https://github.com/halfmage/pixelarticons",
+					"https://icon-sets.iconify.design/pixelarticons/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/pixelarticons/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/pixelarticons.txt"
 		},
@@ -60,7 +148,17 @@
 			"id": "bleelblep-lets-icons",
 			"name": "Lets Icons",
 			"description": "Lets Icons by Leonid Tsvetkov, soft outlines.",
-			"credits": { "authors": [{ "name": "Leonid Tsvetkov" }], "sources": ["https://www.figma.com/community/file/886554014393250663", "https://icon-sets.iconify.design/lets-icons/"] },
+			"credits": {
+				"authors": [
+					{
+						"name": "Leonid Tsvetkov"
+					}
+				],
+				"sources": [
+					"https://www.figma.com/community/file/886554014393250663",
+					"https://icon-sets.iconify.design/lets-icons/"
+				]
+			},
 			"load": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/packs/lets-icons/",
 			"tree": "https://raw.githubusercontent.com/bleelblep/discord-icon-packs/main/trees/lets-icons.txt"
 		}
