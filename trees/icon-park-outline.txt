@@ -105,6 +105,7 @@ design/components/Icon/native/redesign/generated/images/CloseLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
 design/components/Icon/native/redesign/generated/images/ClosedCaptionsOutlineIcon.png
+design/components/Icon/native/redesign/generated/images/CloudIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
 design/components/Icon/native/redesign/generated/images/CompassIcon.png
 design/components/Icon/native/redesign/generated/images/ConnectionAverageIcon.png

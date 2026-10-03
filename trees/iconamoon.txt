@@ -44,6 +44,7 @@ design/components/Icon/native/redesign/generated/images/CircleQuestionIcon.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon-primary.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon-secondary.png
 design/components/Icon/native/redesign/generated/images/CircleXIcon.png
+design/components/Icon/native/redesign/generated/images/ClipboardCheckIcon.png
 design/components/Icon/native/redesign/generated/images/ClipsIcon.png
 design/components/Icon/native/redesign/generated/images/ClockIcon.png
 design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon.png

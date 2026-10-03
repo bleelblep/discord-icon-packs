@@ -83,6 +83,7 @@ design/components/Icon/native/redesign/generated/images/CloseLargeBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseLargeIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallBoldIcon.png
 design/components/Icon/native/redesign/generated/images/CloseSmallIcon.png
+design/components/Icon/native/redesign/generated/images/CloudIcon.png
 design/components/Icon/native/redesign/generated/images/ClydeIcon.png
 design/components/Icon/native/redesign/generated/images/CompassIcon.png
 design/components/Icon/native/redesign/generated/images/CopyIcon.png
@@ -195,6 +196,7 @@ design/components/Icon/native/redesign/generated/images/ScienceIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenArrowIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenIcon.png
 design/components/Icon/native/redesign/generated/images/ScreenStreamIcon.png
+design/components/Icon/native/redesign/generated/images/SendMessageIcon.png
 design/components/Icon/native/redesign/generated/images/ServerGridIcon.png
 design/components/Icon/native/redesign/generated/images/ServerIcon.png
 design/components/Icon/native/redesign/generated/images/SettingsIcon.png
